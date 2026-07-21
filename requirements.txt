@@ -1,0 +1,7 @@
+numpy
+pandas
+requests
+python-dotenv
+sgp4
+astropy
+tqdm
